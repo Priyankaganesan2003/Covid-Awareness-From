@@ -1,0 +1,36 @@
+body {
+    background-image: url('https://img.freepik.com/free-vector/simple-blue-gradient-background-vector-business_53876-174921.jpg?w=2000');   
+    width: 100vw;
+    height: 40vw;
+    font-size: larger;
+}
+
+.head {
+    text-align: center;
+    justify-content: center;
+    color: rgb(27, 2, 2);
+}
+
+.awareness {
+    background-color: rgb(191, 218, 228);
+    margin-right:150px ;
+    margin-left: 150px;
+    text-align: left;
+    justify-content: center;
+    height: 900px;
+}
+
+.button {
+    position: absolute;
+    background-color: rgb(176, 11, 11);
+    color: white;
+    width: 90px;
+    justify-content: left;
+    text-align: center;
+    height: 30px;
+    border-radius: 0;
+    padding: 0;
+    font-weight: 500;
+    left: 670px;
+    cursor: pointer;
+}
